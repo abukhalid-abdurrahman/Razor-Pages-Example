@@ -16,8 +16,6 @@
     <list default="true" id="efd13e93-537c-4c1c-a003-414ee79fda2e" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/Razor Pages Examples/Models/UserEntityModel.cs" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Razor Pages Examples/Services/UserStorageService.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Razor Pages Examples/obj/Debug/net5.0/Razor/Pages/Users/SimpleUser.cshtml.g.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Razor Pages Examples/obj/Debug/net5.0/Razor/Pages/Users/Users.cshtml.g.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Razor Pages Examples/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Razor Pages Examples/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Razor Pages Examples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Razor Pages Examples/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Razor Pages Examples/Pages/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Razor Pages Examples/Pages/Shared/_Layout.cshtml" afterDir="false" />
@@ -37,8 +35,8 @@
       <change beforePath="$PROJECT_DIR$/Razor Pages Examples/obj/Debug/net5.0/Razor Pages Examples.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Razor Pages Examples/obj/Debug/net5.0/Razor Pages Examples.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Razor Pages Examples/obj/Debug/net5.0/Razor Pages Examples.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Razor Pages Examples/obj/Debug/net5.0/Razor Pages Examples.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Razor Pages Examples/obj/Debug/net5.0/Razor Pages Examples.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Razor Pages Examples/obj/Debug/net5.0/Razor Pages Examples.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Razor Pages Examples/obj/Debug/net5.0/Razor/Pages/Shared/_Layout.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Razor Pages Examples/obj/Debug/net5.0/Razor/Pages/Shared/_Layout.cshtml.g.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Razor Pages Examples/obj/Debug/net5.0/Razor/Pages/Users.cshtml.g.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Razor Pages Examples/obj/Debug/net5.0/Razor/Pages/Users/Users.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Razor Pages Examples/obj/Debug/net5.0/Razor/Pages/Users/Users.cshtml.g.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Razor Pages Examples/obj/Debug/net5.0/ref/Razor Pages Examples.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Razor Pages Examples/obj/Debug/net5.0/ref/Razor Pages Examples.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +121,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1615202845577</updated>
-      <workItem from="1615202858989" duration="8186000" />
+      <workItem from="1615202858989" duration="9232000" />
     </task>
     <servers />
   </component>
@@ -146,22 +144,22 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1559" height="296" key="GridCell.Tab.0.bottom" timestamp="1615213753951">
+    <state width="1559" height="296" key="GridCell.Tab.0.bottom" timestamp="1615214714198">
       <screen x="0" y="0" width="1603" height="873" />
     </state>
-    <state width="1559" height="296" key="GridCell.Tab.0.bottom/0.0.1603.873@0.0.1603.873" timestamp="1615213753950" />
-    <state width="1559" height="296" key="GridCell.Tab.0.center" timestamp="1615213753950">
+    <state width="1559" height="296" key="GridCell.Tab.0.bottom/0.0.1603.873@0.0.1603.873" timestamp="1615214714198" />
+    <state width="1559" height="296" key="GridCell.Tab.0.center" timestamp="1615214714198">
       <screen x="0" y="0" width="1603" height="873" />
     </state>
-    <state width="1559" height="296" key="GridCell.Tab.0.center/0.0.1603.873@0.0.1603.873" timestamp="1615213753950" />
-    <state width="1559" height="296" key="GridCell.Tab.0.left" timestamp="1615213753950">
+    <state width="1559" height="296" key="GridCell.Tab.0.center/0.0.1603.873@0.0.1603.873" timestamp="1615214714198" />
+    <state width="1559" height="296" key="GridCell.Tab.0.left" timestamp="1615214714198">
       <screen x="0" y="0" width="1603" height="873" />
     </state>
-    <state width="1559" height="296" key="GridCell.Tab.0.left/0.0.1603.873@0.0.1603.873" timestamp="1615213753950" />
-    <state width="1559" height="296" key="GridCell.Tab.0.right" timestamp="1615213753950">
+    <state width="1559" height="296" key="GridCell.Tab.0.left/0.0.1603.873@0.0.1603.873" timestamp="1615214714198" />
+    <state width="1559" height="296" key="GridCell.Tab.0.right" timestamp="1615214714198">
       <screen x="0" y="0" width="1603" height="873" />
     </state>
-    <state width="1559" height="296" key="GridCell.Tab.0.right/0.0.1603.873@0.0.1603.873" timestamp="1615213753950" />
+    <state width="1559" height="296" key="GridCell.Tab.0.right/0.0.1603.873@0.0.1603.873" timestamp="1615214714198" />
     <state x="702" y="226" width="1403" height="673" key="VCS.FileHistoryDialog" timestamp="1615208717270">
       <screen x="0" y="0" width="1603" height="873" />
     </state>
