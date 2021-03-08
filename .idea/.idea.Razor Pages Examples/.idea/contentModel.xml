@@ -46,6 +46,9 @@
           <e p="launchSettings.json" t="Include" />
         </e>
         <e p="Razor Pages Examples.csproj" t="IncludeRecursive" />
+        <e p="Services" t="Include">
+          <e p="UserStorageService.cs" t="Include" />
+        </e>
         <e p="Startup.cs" t="Include" />
         <e p="wwwroot" t="Include">
           <e p="css" t="Include">
