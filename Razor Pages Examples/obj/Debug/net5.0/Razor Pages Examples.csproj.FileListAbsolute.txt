@@ -38,4 +38,5 @@ E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Ex
 E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor Pages Examples.pdb
 E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor Pages Examples.genruntimeconfig.cache
 E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor Pages Examples.csproj.CopyComplete
-E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor\Pages\Users.cshtml.g.cs
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor\Pages\Users\SimpleUser.cshtml.g.cs
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor\Pages\Users\Users.cshtml.g.cs

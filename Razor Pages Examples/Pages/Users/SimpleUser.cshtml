@@ -6,6 +6,20 @@
     ViewData["Title"] = "Simple User";
 }
 
+<h1>Create User</h1>
+<form method="post">
+    <div class="form-group">
+        <label for="FirstName">User First Name: </label>
+        <input class="form-control mb-3" type="text" id="FirstName" asp-for="UserEntityModel.FirstName" placeholder="First Name"/>
+        <small id="FirstNameHelp" class="form-text text-muted">User first name, it is required field</small>
+    </div>
+    <div class="form-group">
+        <label for="LastName">User Last Name: </label>
+        <input class="form-control mb-3" type="text" id="LastName" asp-for="UserEntityModel.LastName" placeholder="Last Name"/>
+        <small id="LastNameHelp" class="form-text text-muted">User last name, it is required field</small>
+    </div>
+    <input class="btn btn-primary" type="submit" value="Submit">
+</form>
 <div class="text-center">
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
