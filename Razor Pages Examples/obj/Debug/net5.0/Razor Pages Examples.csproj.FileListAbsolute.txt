@@ -1,0 +1,40 @@
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\bin\Debug\net5.0\appsettings.Development.json
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\bin\Debug\net5.0\appsettings.json
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\bin\Debug\net5.0\Razor Pages Examples.exe
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\bin\Debug\net5.0\Razor Pages Examples.deps.json
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\bin\Debug\net5.0\Razor Pages Examples.runtimeconfig.json
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\bin\Debug\net5.0\Razor Pages Examples.runtimeconfig.dev.json
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\bin\Debug\net5.0\Razor Pages Examples.dll
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\bin\Debug\net5.0\ref\Razor Pages Examples.dll
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\bin\Debug\net5.0\Razor Pages Examples.pdb
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\bin\Debug\net5.0\Razor Pages Examples.Views.dll
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\bin\Debug\net5.0\Razor Pages Examples.Views.pdb
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor Pages Examples.csprojAssemblyReference.cache
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor Pages Examples.GeneratedMSBuildEditorConfig.editorconfig
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor Pages Examples.AssemblyInfoInputs.cache
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor Pages Examples.AssemblyInfo.cs
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor Pages Examples.csproj.CoreCompileInputs.cache
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor Pages Examples.MvcApplicationPartsAssemblyInfo.cache
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor Pages Examples.RazorAssemblyInfo.cache
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor Pages Examples.RazorAssemblyInfo.cs
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\staticwebassets\Razor Pages Examples.StaticWebAssets.Manifest.cache
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\staticwebassets\Razor Pages Examples.StaticWebAssets.xml
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\scopedcss\bundle\Razor Pages Examples.styles.css
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor Pages Examples.TagHelpers.input.cache
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor Pages Examples.TagHelpers.output.cache
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor Pages Examples.RazorCoreGenerate.cache
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor Pages Examples.RazorTargetAssemblyInfo.cache
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor Pages Examples.RazorTargetAssemblyInfo.cs
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor Pages Examples.Views.pdb
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor Pages Examples.dll
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\ref\Razor Pages Examples.dll
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor Pages Examples.pdb
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor Pages Examples.genruntimeconfig.cache
+E:\Faridun's Projects\Faridun's\Back-End\ASP\Razor Pages Examples\Razor Pages Examples\obj\Debug\net5.0\Razor Pages Examples.csproj.CopyComplete
