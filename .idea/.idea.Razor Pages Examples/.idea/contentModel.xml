@@ -10,6 +10,9 @@
         <e p="appsettings.Development.json" t="Include" />
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Models" t="Include">
+          <e p="UserEntityModel.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="net5.0" t="Include">
@@ -30,6 +33,12 @@
           <e p="Shared" t="Include">
             <e p="_Layout.cshtml" t="Include" />
             <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+          </e>
+          <e p="Users" t="Include">
+            <e p="SimpleUser.cshtml" t="Include" />
+            <e p="SimpleUser.cshtml.cs" t="Include" />
+            <e p="Users.cshtml" t="Include" />
+            <e p="Users.cshtml.cs" t="Include" />
           </e>
         </e>
         <e p="Program.cs" t="Include" />
